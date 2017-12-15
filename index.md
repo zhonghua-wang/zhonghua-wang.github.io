@@ -2,7 +2,6 @@
 layout: aemd
 ---
 
-# [](#header-1)AEMD Announcement:
+Sorry for the inconvenience but the AEMD server is under maintenance at the moment. If you need to you can always contact us, otherwise we'll be back online shortly!
 
-AEMD server is under maintenance now and will be back 17/12/2017.
-
+AEMD team.
