@@ -7,5 +7,6 @@ Sorry for the inconvenience but the AEMD server is under maintenance at the mome
 
 <p style="float: right">
 AEMD team.
+
 12/15/2017
 </p>
