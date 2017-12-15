@@ -2,7 +2,7 @@
 layout: aemd
 ---
 
-# [](#header-1)Announcement
+# [](#header-1)AEMD Announcement:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+AEMD server is under maintenance now and will be back 17/12/2017.
 
