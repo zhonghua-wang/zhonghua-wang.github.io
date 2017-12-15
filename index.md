@@ -1,7 +1,7 @@
 ---
 layout: aemd
 ---
-<pre style="font: 4px/2px monospace background:none ;">
+<pre style="font: 4px/2px monospace; background:none ;">
 @                                                                                                                                                                                                      :
 @                                                                                                                                                                                                      :
 @                                                                                                                                                                                                      ,
